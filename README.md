@@ -1,4 +1,6 @@
 # garagedoorgadget
+## Overall flow
+![overall](./img/overall_flow.png)
 
 ## Create new AVS Gadget device profile on AWS  
 Follow https://github.com/alexa/Alexa-Gadgets-Raspberry-Pi-Samples/blob/master/README.md#registering-a-gadget-in-the-alexa-voice-service-developer-console  
