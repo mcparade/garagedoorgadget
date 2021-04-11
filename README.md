@@ -28,6 +28,7 @@ https://drive.google.com/file/d/1j-BqbwyUGvaKqjtk3CFHmaSWrYcE524b/view?usp=shari
 
 
 ## Wire relay switch and garage door
+Connect NC and Common to connector to push button
 ![garage door](./img/IMG_9282.jpg)
 
 ## Final test
