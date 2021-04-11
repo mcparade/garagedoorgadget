@@ -38,13 +38,12 @@
         "en-US": {
           "description": "Sample Full Description",
           "examplePhrases": [
-            "Alexa open hello world",
-            "hello",
-            "help"
+            "Alexa my garage",
+            "Alexa open my garage"
           ],
           "keywords": [],
           "name": "My Garage",
-          "summary": "Sample Short Description"
+          "summary": "Control garage door using Alexa gadget"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
