@@ -19,7 +19,7 @@ https://developer.amazon.com/alexa/console/ask
 https://github.com/mcparade/garagedoorgadget/blob/main/skill/lambda/index.js
 
 ## Wire Raspberry Pi and relay switch
-![relay switch](./img/9278-1.jpg)
+![relay switch](./img/IMG_9278-1.jpg)
 
 ## Test
 
