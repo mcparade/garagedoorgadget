@@ -1,6 +1,6 @@
 # garagedoorgadget
 
-## Create new AVS Gadget device  
+## Create new AVS Gadget device profile on AWS  
 Follow https://github.com/alexa/Alexa-Gadgets-Raspberry-Pi-Samples/blob/master/README.md#registering-a-gadget-in-the-alexa-voice-service-developer-console  
 **Amazon ID** and **Alexa Gadget Secret** is required for next step
 
