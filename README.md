@@ -1,4 +1,4 @@
-# garagedoorgadget
+# garage door gadget
 ## Overall flow
 ![overall](./img/overall_flow.png)
 
