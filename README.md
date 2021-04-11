@@ -22,9 +22,11 @@ https://github.com/mcparade/garagedoorgadget/blob/main/skill/lambda/index.js
 ![relay switch](./img/IMG_9278-1.jpg)
 
 ## Test
+https://drive.google.com/file/d/1j-BqbwyUGvaKqjtk3CFHmaSWrYcE524b/view?usp=sharing
 
 
 ## Wire relay switch and garage door
 ![garage door](./img/IMG_9282.jpg)
 
 ## Final test
+https://drive.google.com/file/d/1L59wsgpv6dyUGH911viy9P9oJVXtIJXx/view?usp=sharing
