@@ -19,12 +19,12 @@ https://developer.amazon.com/alexa/console/ask
 https://github.com/mcparade/garagedoorgadget/blob/main/skill/lambda/index.js
 
 ## Wire Raspberry Pi and relay switch
-
+./img/9278-1.jpg
 
 ## Test
 
 
 ## Wire relay switch and garage door
-
+./img/IMG_9282.jpg
 
 ## Final test
