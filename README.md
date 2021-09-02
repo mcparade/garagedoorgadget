@@ -38,5 +38,4 @@ Connect NC and Common to connector to push button
 ![garage door](./img/IMG_9282.jpg)
 
 ## Hooray!! 
-https://drive.google.com/file/d/1L59wsgpv6dyUGH911viy9P9oJVXtIJXx/view?usp=sharing
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://drive.google.com/file/d/1L59wsgpv6dyUGH911viy9P9oJVXtIJXx/view?usp=sharing)
+[![Watch the video](./img/black_play.png)](https://drive.google.com/file/d/1L59wsgpv6dyUGH911viy9P9oJVXtIJXx/view?usp=sharing)
