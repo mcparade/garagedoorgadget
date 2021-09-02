@@ -27,7 +27,7 @@ python3 /home/pi/Alexa-Gadgets-Raspberry-Pi-Samples/launch.py --example "your ex
 ## Create Alexa custom skillset
 https://developer.amazon.com/alexa/console/ask
 
-## Write intent handler
+## Write intent handler in skillset
 https://github.com/mcparade/garagedoorgadget/blob/main/skill/lambda/index.js
 
 ## Wire Raspberry Pi and relay switch
