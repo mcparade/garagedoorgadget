@@ -17,12 +17,12 @@ Once Alexa Gadget Tookit is installed completed, modify configuration with your 
 [python app](./garage_door.py)
 
 ## Running your application.
-python3 /home/pi/Alexa-Gadgets-Raspberry-Pi-Samples/launch.py --example <your example name> --pair
+python3 /home/pi/Alexa-Gadgets-Raspberry-Pi-Samples/launch.py --example "your example name" --pair
 
 ## Running Alexa Gadget Toolkit on boot
  - Edit file /etc/rc.local
  - Add this line
- - python3 /home/pi/Alexa-Gadgets-Raspberry-Pi-Samples/launch.py --example <your example name> --pair
+ - python3 /home/pi/Alexa-Gadgets-Raspberry-Pi-Samples/launch.py --example "your example name" --pair
 
 ## Create Alexa custom skillset
 https://developer.amazon.com/alexa/console/ask
