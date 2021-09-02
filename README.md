@@ -20,7 +20,7 @@ Once Alexa Gadget Tookit is installed completed, modify configuration with your 
 python3 /home/pi/Alexa-Gadgets-Raspberry-Pi-Samples/launch.py --example <your example name> --pair
 
 ## Running Alexa Gadget Toolkit on boot
-> vi /etc/rc.local
+Edit file /etc/rc.local
 Add this line
 python3 /home/pi/Alexa-Gadgets-Raspberry-Pi-Samples/launch.py --example <your example name> --pair
 
